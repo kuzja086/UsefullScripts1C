@@ -10,7 +10,7 @@
             "type": "sbsl",
             "request": "attach",
             "scriptFile": "${file}",
-            "args": ["test_pbedt17", "sqlserver:2641", "8.3.17.1549", "Администратор", "1",""]
+            "args": ["U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\settings.json"]
         }
     ]
 }

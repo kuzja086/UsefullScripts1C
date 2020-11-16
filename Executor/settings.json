@@ -1,0 +1,12 @@
+{
+    "base": "test_pbedt17",
+    "server": "sqlserver:2641",
+    "platformVersion": "8.3.17.1549",
+    "baseUsername": "Администратор",
+    "basePassword": "1",
+    "workDirectory": "",
+    "SQLServer" : "sqlserver\\sqlexpress",
+    "SQLUser" : "kozinskiy",
+    "SQLPassword" : "gjhn1743",
+    "scriptPath" : "U:\\Козинский\\Git\\UsefullScripts1C\\SQL\\backup.sql"
+}
