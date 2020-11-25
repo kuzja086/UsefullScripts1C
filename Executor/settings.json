@@ -1,12 +1,25 @@
 {
-    "base": "test_pbedt17",
-    "server": "sqlserver:2641",
-    "platformVersion": "8.3.17.1549",
-    "baseUsername": "Администратор",
-    "basePassword": "1",
+    "base": "utvik_etalon_obmena",
+    "server": "sqlserver:2141",
+    "platformVersion": "8.3.16.1224",
+    "baseUsername": "ТестОбмена",
+    "basePassword": "3898383",
     "workDirectory": "",
     "SQLServer" : "sqlserver\\sqlexpress",
     "SQLUser" : "kozinskiy",
     "SQLPassword" : "gjhn1743",
-    "scriptPath" : "U:\\Козинский\\Git\\UsefullScripts1C\\SQL\\backup.sql"
+    "scriptPathBackup" : "U:\\Козинский\\Git\\UsefullScripts1C\\SQL\\backup.sql",
+    "backUpCatalogName" : "\\\\sqlserver\\temp_for_1c$\\Kozynskiy\\",
+    "baseRestore" : "kozynskiy_worktest2",
+    "scriptPathRestore" : "U:\\Козинский\\Git\\UsefullScripts1C\\SQL\\restore.sql",
+    "executeDataProcessor" : "\"U:\\Козинский\\Git\\UsefullScripts1C\\ОбработкаПервичногоЗаполнения.epf\"",
+    "executeDataProcessorParameters" :
+        [
+            "ЗаполнитьАвтоматически",
+            "ФайлРезультата=\\\\sqlserver\\temp_for_1c$\\Kozynskiy\\\\result.txt",
+            "ФайлЛога=\\\\sqlserver\\temp_for_1c$\\Kozynskiy\\\\log.txt"
+        ],
+    "storage" : "tcp://sqlserver:1942/office_utvik",
+    "storageUser" : "Козинский",
+    "storagePassword" : "gjhn1743"
 }
