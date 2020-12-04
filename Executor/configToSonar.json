@@ -1,0 +1,16 @@
+{
+    "base": "kozynskiy_worktest2",
+    "server": "sqlserver:2141",
+    "platformVersion": "8.3.16.1224",
+    "baseUsername": "ТестОбмена",
+    "basePassword": "3898383",
+    "storage" : "tcp://sqlserver:1942/office_utvik",
+    "storageUser" : "Козинский",
+    "storagePassword" : "gjhn1743",
+    "exportDirectory" : "",
+    "gitDirectory" : "",
+    "edtVersion" : "2020.6",
+    "projectName" : "utvik",
+    "gitURL" : "http:\\\\gitlab.com\\kuzja086\\utvik.git"
+
+}

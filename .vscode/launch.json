@@ -10,8 +10,9 @@
             "type": "sbsl",
             "request": "attach",
             "scriptFile": "${file}",
-            "args": ["kozinskiy","gjhn1743","8.3.17.1549","U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\settingServer.yml"]
-            // "args": ["U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\settings.json"]
+            // "args": ["kozinskiy","gjhn1743","8.3.17.1549","U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\settingServer.yml"]
+            //"args": ["U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\settings.json"]
+            "args": ["U:\\Козинский\\Git\\UsefullScripts1C\\Executor\\configToSonar.json"]
         }
     ]
 }
