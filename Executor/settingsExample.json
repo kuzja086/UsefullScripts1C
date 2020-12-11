@@ -1,0 +1,26 @@
+{
+    "base": "",
+    "server": "",
+    "platformVersion": "",
+    "baseUsername": "",
+    "basePassword": "",
+    "workDirectory": "",
+    "SQLServer" : "",
+    "SQLUser" : "",
+    "SQLPassword" : "",
+    "scriptPathBackup" : "",
+    "backUpCatalogName" : "",
+    "baseRestore" : "",
+    "scriptPathRestore" : "",
+    "executeDataProcessor" : "",
+    "executeDataProcessorParameters" :
+        [
+            "ЗаполнитьАвтоматически",
+            "ФайлРезультата=",
+            "ФайлЛога="
+        ],
+    "storage" : "",
+    "storageUser" : "",
+    "storagePassword" : "",
+    "RASPort" : ""
+}

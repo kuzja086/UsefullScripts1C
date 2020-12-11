@@ -1,12 +1,12 @@
 server:
-  address: localhost
-  port: 8314
+  address: 
+  port: 
 database:
-  dbms: MSSQLServer
-  server: sqlserver\sqlexpress
-  name: kozynskiy_StandAloneServer
-  user: kozinskiy
-  password: gjhn1743
+  dbms: 
+  server: 
+  name: 
+  user: 
+  password: 
 infobase:
-  name: kozynskiy_StandAloneServer
+  name: 
   distribute-licenses: no
